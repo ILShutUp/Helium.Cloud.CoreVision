@@ -1,0 +1,12 @@
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\bin\Debug\netcoreapp2.0\Helium.Service.deps.json
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\bin\Debug\netcoreapp2.0\Helium.Service.dll
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\obj\Debug\netcoreapp2.0\Helium.Service.csprojResolveAssemblyReference.cache
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\obj\Debug\netcoreapp2.0\Helium.Service.csproj.CoreCompileInputs.cache
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\obj\Debug\netcoreapp2.0\Helium.Service.AssemblyInfoInputs.cache
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\obj\Debug\netcoreapp2.0\Helium.Service.AssemblyInfo.cs
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\bin\Debug\netcoreapp2.0\Helium.Service.pdb
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\bin\Debug\netcoreapp2.0\Helium.Tools.dll
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\bin\Debug\netcoreapp2.0\Helium.Tools.pdb
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\obj\Debug\netcoreapp2.0\Helium.Service.csproj.CopyComplete
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\obj\Debug\netcoreapp2.0\Helium.Service.dll
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Service\obj\Debug\netcoreapp2.0\Helium.Service.pdb

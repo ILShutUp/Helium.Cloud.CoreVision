@@ -1,0 +1,9 @@
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Tools\bin\Debug\netcoreapp2.0\Helium.Tools.deps.json
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Tools\bin\Debug\netcoreapp2.0\Helium.Tools.dll
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Tools\bin\Debug\netcoreapp2.0\Helium.Tools.pdb
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Tools\obj\Debug\netcoreapp2.0\Helium.Tools.csprojResolveAssemblyReference.cache
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Tools\obj\Debug\netcoreapp2.0\Helium.Tools.csproj.CoreCompileInputs.cache
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Tools\obj\Debug\netcoreapp2.0\Helium.Tools.AssemblyInfoInputs.cache
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Tools\obj\Debug\netcoreapp2.0\Helium.Tools.AssemblyInfo.cs
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Tools\obj\Debug\netcoreapp2.0\Helium.Tools.dll
+D:\Project\Source\Repos\Helium.Cloud.CoreVision\Helium.Tools\obj\Debug\netcoreapp2.0\Helium.Tools.pdb
